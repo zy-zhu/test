@@ -1,0 +1,852 @@
+{
+
+"nodes":[
+  {
+    "id": 3,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 4,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 5,
+    "name": "Disease"
+  },
+  {
+    "id": 6,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 7,
+    "name": "Analysis"
+  },
+  {
+    "id": 8,
+    "name": "Disease"
+  },
+  {
+    "id": 9,
+    "name": "Disease Model"
+  },
+  {
+    "id": 10,
+    "name": "Cell Type"
+  },
+  {
+    "id": 11,
+    "name": "Gene"
+  },
+  {
+    "id": 12,
+    "name": "Gene"
+  },
+  {
+    "id": 13,
+    "name": "Analysis"
+  },
+  {
+    "id": 14,
+    "name": "Gene"
+  },
+  {
+    "id": 15,
+    "name": "Gene"
+  },
+  {
+    "id": 16,
+    "name": "Analysis"
+  },
+  {
+    "id": 17,
+    "name": "Gene"
+  },
+  {
+    "id": 18,
+    "name": "Gene"
+  },
+  {
+    "id": 19,
+    "name": "Gene"
+  },
+  {
+    "id": 20,
+    "name": "Gene"
+  },
+  {
+    "id": 21,
+    "name": "Gene"
+  },
+  {
+    "id": 22,
+    "name": "Gene"
+  },
+  {
+    "id": 23,
+    "name": "Pathway"
+  },
+  {
+    "id": 24,
+    "name": "Pathway"
+  },
+  {
+    "id": 25,
+    "name": "Pathway"
+  },
+  {
+    "id": 26,
+    "name": "Pathway"
+  },
+  {
+    "id": 27,
+    "name": "Disease Model"
+  },
+  {
+    "id": 28,
+    "name": "Disease Model"
+  },
+  {
+    "id": 29,
+    "name": "Disease Model"
+  },
+  {
+    "id": 30,
+    "name": "Disease Model"
+  },
+  {
+    "id": 31,
+    "name": "Disease Model"
+  },
+  {
+    "id": 32,
+    "name": "Disease Model"
+  },
+  {
+    "id": 33,
+    "name": "Dataset"
+  },
+  {
+    "id": 34,
+    "name": "Clinical Study"
+  },
+  {
+    "id": 35,
+    "name": "Disease Model"
+  },
+  {
+    "id": 36,
+    "name": "Disease Model"
+  },
+  {
+    "id": 37,
+    "name": "Disease Model"
+  },
+  {
+    "id": 38,
+    "name": "Gene"
+  },
+  {
+    "id": 39,
+    "name": "Dataset"
+  },
+  {
+    "id": 40,
+    "name": "Dataset"
+  },
+  {
+    "id": 41,
+    "name": "Dataset"
+  },
+  {
+    "id": 42,
+    "name": "Disease"
+  },
+  {
+    "id": 43,
+    "name": "Gene"
+  },
+  {
+    "id": 44,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 45,
+    "name": "Analysis"
+  },
+  {
+    "id": 46,
+    "name": "Literature Reference"
+  },
+  {
+    "id": 47,
+    "name": "Dataset"
+  },
+  {
+    "id": 48,
+    "name": "Clinical Study"
+  },
+  {
+    "id": 49,
+    "name": "Precision Discovery Project"
+  },
+  {
+    "id": 50,
+    "name": "Cell Type"
+  },
+  {
+    "id": 51,
+    "name": "Gene"
+  },
+  {
+    "id": 52,
+    "name": "Cell Type"
+  },
+  {
+    "id": 53,
+    "name": "Cell Type"
+  },
+  {
+    "id": 54,
+    "name": "Dataset"
+  },
+  {
+    "id": 55,
+    "name": "Dataset"
+  },
+  {
+    "id": 56,
+    "name": "Dataset"
+  },
+  {
+    "id": 57,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 58,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 59,
+    "name": "Disease Subtype"
+  },
+  {
+    "id": 60,
+    "name": "Pathway"
+  },
+  {
+    "id": 61,
+    "name": "Pathway"
+  },
+  {
+    "id": 62,
+    "name": "Pathway"
+  },
+  {
+    "id": 63,
+    "name": "Pathway"
+  },
+  {
+    "id": 64,
+    "name": "Gene"
+  },
+  {
+    "id": 65,
+    "name": "Gene"
+  },
+  {
+    "id": 66,
+    "name": "Literature Reference"
+  },
+  {
+    "id": 67,
+    "name": "Cell Type"
+  },
+  {
+    "id": 68,
+    "name": "Cell Type"
+  },
+  {
+    "id": 69,
+    "name": "Cell Type"
+  },
+  {
+    "id": 70,
+    "name": "Biomarker/Classifier"
+  },
+  {
+    "id": 71,
+    "name": "Gene"
+  },
+  {
+    "id": 72,
+    "name": "Disease Model"
+  },
+  {
+    "id": 73,
+    "name": "Disease Model"
+  },
+  {
+    "id": 74,
+    "name": "Disease Model"
+  },
+  {
+    "id": 75,
+    "name": "Disease Model"
+  },
+  {
+    "id": 76,
+    "name": "Disease Model"
+  },
+  {
+    "id": 77,
+    "name": "Cell Type"
+  },
+  {
+    "id": 78,
+    "name": "Therapeutic Hypothesis"
+  },
+  {
+    "id": 79,
+    "name": "Disease Model"
+  },
+  {
+    "id": 80,
+    "name": "Precision Discovery Project"
+  },
+  {
+    "id": 81,
+    "name": "Therapeutic Hypothesis"
+  },
+  {
+    "id": 82,
+    "name": "Dataset"
+  },
+  {
+    "id": 83,
+    "name": "Therapeutic Hypothesis"
+  },
+  {
+    "id": 84,
+    "name": "Drug"
+  },
+  {
+    "id": 85,
+    "name": "Drug"
+  },
+  {
+    "id": 86,
+    "name": "Drug"
+  },
+  {
+    "id": 87,
+    "name": "Drug"
+  },
+  {
+    "id": 88,
+    "name": "Cell Type"
+  },
+  {
+    "id": 89,
+    "name": "Gene"
+  },
+  {
+    "id": 90,
+    "name": "Therapeutic Hypothesis"
+  },
+  {
+    "id": 91,
+    "name": "Drug"
+  },
+  {
+    "id": 92,
+    "name": "Precision Discovery Project"
+  },
+  {
+    "id": 94,
+    "name": "Cell Type"
+  }
+],
+
+"links":[
+  {
+    "source": 5,
+    "target": 3
+  },
+  {
+    "source": 5,
+    "target": 4
+  },
+  {
+    "source": 5,
+    "target": 6
+  },
+  {
+    "source": 12,
+    "target": 13
+  },
+  {
+    "source": 11,
+    "target": 13
+  },
+  {
+    "source": 13,
+    "target": 3
+  },
+  {
+    "source": 14,
+    "target": 13
+  },
+  {
+    "source": 15,
+    "target": 13
+  },
+  {
+    "source": 16,
+    "target": 3
+  },
+  {
+    "source": 17,
+    "target": 16
+  },
+  {
+    "source": 18,
+    "target": 16
+  },
+  {
+    "source": 21,
+    "target": 16
+  },
+  {
+    "source": 19,
+    "target": 16
+  },
+  {
+    "source": 20,
+    "target": 16
+  },
+  {
+    "source": 22,
+    "target": 16
+  },
+  {
+    "source": 7,
+    "target": 3
+  },
+  {
+    "source": 23,
+    "target": 7
+  },
+  {
+    "source": 26,
+    "target": 7
+  },
+  {
+    "source": 25,
+    "target": 7
+  },
+  {
+    "source": 24,
+    "target": 7
+  },
+  {
+    "source": 27,
+    "target": 3
+  },
+  {
+    "source": 29,
+    "target": 3
+  },
+  {
+    "source": 28,
+    "target": 3
+  },
+  {
+    "source": 30,
+    "target": 3
+  },
+  {
+    "source": 31,
+    "target": 3
+  },
+  {
+    "source": 32,
+    "target": 3
+  },
+  {
+    "source": 33,
+    "target": 7
+  },
+  {
+    "source": 33,
+    "target": 34
+  },
+  {
+    "source": 20,
+    "target": 23
+  },
+  {
+    "source": 34,
+    "target": 5
+  },
+  {
+    "source": 33,
+    "target": 5
+  },
+  {
+    "source": 9,
+    "target": 3
+  },
+  {
+    "source": 35,
+    "target": 3
+  },
+  {
+    "source": 36,
+    "target": 3
+  },
+  {
+    "source": 37,
+    "target": 3
+  },
+  {
+    "source": 38,
+    "target": 16
+  },
+  {
+    "source": 38,
+    "target": 23
+  },
+  {
+    "source": 39,
+    "target": 7
+  },
+  {
+    "source": 40,
+    "target": 7
+  },
+  {
+    "source": 41,
+    "target": 40
+  },
+  {
+    "source": 43,
+    "target": 42
+  },
+  {
+    "source": 46,
+    "target": 49
+  },
+  {
+    "source": 51,
+    "target": 49
+  },
+  {
+    "source": 45,
+    "target": 10
+  },
+  {
+    "source": 42,
+    "target": 46
+  },
+  {
+    "source": 42,
+    "target": 44
+  },
+  {
+    "source": 49,
+    "target": 48
+  },
+  {
+    "source": 51,
+    "target": 42
+  },
+  {
+    "source": 10,
+    "target": 79
+  },
+  {
+    "source": 49,
+    "target": 54
+  },
+  {
+    "source": 48,
+    "target": 47
+  },
+  {
+    "source": 43,
+    "target": 49
+  },
+  {
+    "source": 55,
+    "target": 8
+  },
+  {
+    "source": 52,
+    "target": 10
+  },
+  {
+    "source": 53,
+    "target": 10
+  },
+  {
+    "source": 49,
+    "target": 10
+  },
+  {
+    "source": 49,
+    "target": 50
+  },
+  {
+    "source": 56,
+    "target": 8
+  },
+  {
+    "source": 8,
+    "target": 57
+  },
+  {
+    "source": 8,
+    "target": 58
+  },
+  {
+    "source": 60,
+    "target": 59
+  },
+  {
+    "source": 58,
+    "target": 60
+  },
+  {
+    "source": 58,
+    "target": 61
+  },
+  {
+    "source": 61,
+    "target": 59
+  },
+  {
+    "source": 62,
+    "target": 58
+  },
+  {
+    "source": 63,
+    "target": 57
+  },
+  {
+    "source": 64,
+    "target": 57
+  },
+  {
+    "source": 72,
+    "target": 57
+  },
+  {
+    "source": 66,
+    "target": 57
+  },
+  {
+    "source": 66,
+    "target": 58
+  },
+  {
+    "source": 67,
+    "target": 58
+  },
+  {
+    "source": 67,
+    "target": 57
+  },
+  {
+    "source": 68,
+    "target": 60
+  },
+  {
+    "source": 69,
+    "target": 61
+  },
+  {
+    "source": 70,
+    "target": 58
+  },
+  {
+    "source": 70,
+    "target": 57
+  },
+  {
+    "source": 71,
+    "target": 58
+  },
+  {
+    "source": 65,
+    "target": 57
+  },
+  {
+    "source": 75,
+    "target": 57
+  },
+  {
+    "source": 76,
+    "target": 58
+  },
+  {
+    "source": 73,
+    "target": 58
+  },
+  {
+    "source": 74,
+    "target": 58
+  },
+  {
+    "source": 70,
+    "target": 72
+  },
+  {
+    "source": 70,
+    "target": 75
+  },
+  {
+    "source": 70,
+    "target": 76
+  },
+  {
+    "source": 70,
+    "target": 73
+  },
+  {
+    "source": 70,
+    "target": 74
+  },
+  {
+    "source": 50,
+    "target": 42
+  },
+  {
+    "source": 53,
+    "target": 42
+  },
+  {
+    "source": 77,
+    "target": 42
+  },
+  {
+    "source": 52,
+    "target": 42
+  },
+  {
+    "source": 53,
+    "target": 78
+  },
+  {
+    "source": 47,
+    "target": 45
+  },
+  {
+    "source": 45,
+    "target": 79
+  },
+  {
+    "source": 10,
+    "target": 42
+  },
+  {
+    "source": 52,
+    "target": 45
+  },
+  {
+    "source": 52,
+    "target": 80
+  },
+  {
+    "source": 52,
+    "target": 81
+  },
+  {
+    "source": 45,
+    "target": 82
+  },
+  {
+    "source": 82,
+    "target": 47
+  },
+  {
+    "source": 82,
+    "target": 83
+  },
+  {
+    "source": 47,
+    "target": 83
+  },
+  {
+    "source": 78,
+    "target": 84
+  },
+  {
+    "source": 81,
+    "target": 85
+  },
+  {
+    "source": 83,
+    "target": 86
+  },
+  {
+    "source": 87,
+    "target": 48
+  },
+  {
+    "source": 88,
+    "target": 42
+  },
+  {
+    "source": 47,
+    "target": 44
+  },
+  {
+    "source": 54,
+    "target": 44
+  },
+  {
+    "source": 88,
+    "target": 87
+  },
+  {
+    "source": 82,
+    "target": 89
+  },
+  {
+    "source": 51,
+    "target": 89
+  },
+  {
+    "source": 43,
+    "target": 82
+  },
+  {
+    "source": 88,
+    "target": 90
+  },
+  {
+    "source": 90,
+    "target": 91
+  },
+  {
+    "source": 92,
+    "target": 44
+  },
+  {
+    "source": 49,
+    "target": 44
+  },
+  {
+    "source": 90,
+    "target": 92
+  },
+  {
+    "source": 69,
+    "target": 59
+  },
+  {
+    "source": 68,
+    "target": 59
+  }
+]
+}
